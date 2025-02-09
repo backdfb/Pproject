@@ -48,9 +48,7 @@
 <br />
 
 ## 💁‍♂️ 프로젝트 팀원
-|Backend|Frontend|
-|:---:|:---:|
-|[김효중 a.k.a backdfb ]((https://github.com/backdfb))||[김효중 a.k.a backdfb ]((https://github.com/backdfb))|
+|[김효중 a.k.a backdfb ]((https://github.com/backdfb))| 
 
 ## 템플릿 출처
 - https://github.com/yewon-Noh/readme-template
