@@ -28,7 +28,7 @@
 
 ## ⚙ 기술 스택
 > skills 폴더에 있는 아이콘을 이용할 수 있습니다.
-### Front-end
+### Language
 <div>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </div>
